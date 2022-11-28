@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #include <windows.h>
 
 int main(void) {
@@ -118,8 +119,8 @@ int main(void) {
             printf("\n1s^2, 2s^2, 2p^6, 3s^2, 3p^6, 4s^2, 3d^10 - 1s^2, 2s^2, 2p^3");
             fprintf(fp, "Z\n1s^2, 2s^2, 2p^6, 3s^2, 3p^6, 4s^2, 3d^10 - 1s^2, 2s^2, 2p^3");
             break;
+        }
+        printf("\n");
+        fprintf(fp, "\n");
     }
-    printf("\n");
-    fprintf(fp, "\n");
-}
 }
