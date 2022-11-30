@@ -2,7 +2,7 @@
 CREATED BY HENRY MATONIS
 ___________________________
 
-Calculates the Electron Configurations of the Atomic Sublevels of an atom.
+CLASS
 ___________________________
 
 11/28/22
